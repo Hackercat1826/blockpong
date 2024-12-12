@@ -1,8 +1,9 @@
 # blockpong
 A python game where you catch falling blocks,
 
-You are the blue paddle in the middle,
-you catch the falling blocks.
+You are the blue paddle on the bottom,
+
+you catch the falling blocks using arrow keys.
 
 blocks are worth,
 
